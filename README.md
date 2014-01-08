@@ -1,6 +1,6 @@
 <h1>Named Entity Recognition in Java</h2>
 <h3>Introduction</h3>
-<p>This is a simple program for Named Entity Recognition(NER) in Java. The objective of the code is to parse a given sentence and come up with all the possible combinations of the entities.</p>
+<p>This is a simple program for Named Entity Recognition (NER) in Java. The objective of the code is to parse a given sentence and come up with all the possible combinations of the entities.</p>
 
 <h3>Input</h3>
 <p>Input can be a sentence of any size that contains named entities,say, <strong>Remember the Titans was a movie directed by Boaz Yakin</strong>.
